@@ -1,7 +1,7 @@
 {
     "schemaVersion": 2,
     "managedBy": "planetvrc-weekly-wall-newspaper",
-    "releaseId": "2a4de605-989a-4323-91d0-2c014827e718",
+    "releaseId": "cfda29a7-0c2b-48fb-8c5d-ae1ff89ceee1",
     "enabled": true,
     "regions": [
         {
@@ -267,6 +267,17 @@
             "height": 0.150845702450811192107948954799212515354156494140625,
             "action": "world_portal",
             "targetId": "wrld_15b46918-9371-40a8-9ae0-c63181f505e7"
+        },
+        {
+            "page": 4,
+            "enabled": true,
+            "label": "PlanetVRCのグループを開く",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+            "action": "group_page",
+            "targetId": "grp_507f764c-ee83-4609-9400-7a68f3085517"
         }
     ]
 }
